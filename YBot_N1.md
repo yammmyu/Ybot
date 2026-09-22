@@ -1,5 +1,7 @@
 # YBot N1: Project Plan and Tech Stack
 
+![YBot 6-DOF robot arm](images/cover.jpg)
+
 > **N1 is the project plan I laid out from the start of YBot**, my open-source 6-DOF robotic arm. The arm was designed according to this plan. This page breaks down its system design and tech stack.
 >
 > **Status: incomplete.** The arm is designed and built, but the software and coding side is unfinished.
