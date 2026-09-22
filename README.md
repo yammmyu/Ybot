@@ -127,7 +127,7 @@ Excludes labour and electricity. Prices converted from CNY and rounded.
 
 ## Project Status
 
-YBot is an incomplete project. In 2025 I was busy with my college entrance exams, so I didn't have time to continue with the software and coding. Now that I'm at university in the RMI course, I'm properly learning coding and ROS 2. I really want to finish YBot, but I simply don't have the time right now. I don't have plans for a next iteration just yet.
+YBot is an incomplete project. In 2025 I was busy with my college entrance exams, so I didn't have time to continue with the software and coding. Now that I'm at university in the RMI course, I'm properly learning coding and ROS 2, so perhaps this will be a project that I revisit soon
 
 ---
 
